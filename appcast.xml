@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Update Test</title>
+    <item>
+      <title>Update Test 1.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/alhusamia/spaceclean-update-test#readme</sparkle:releaseNotesLink>
+      <enclosure url="https://raw.githubusercontent.com/alhusamia/spaceclean-update-test/main/UpdateTest-1.1.zip" length="10830" type="application/octet-stream" sparkle:edSignature="Momp3Hz434N+Bkk1jVRuz4ht25rZspMbQAmIZt/oF9sno4dI6LaTc0J/xhAUZazlL9ptriOvSmOsDrjzMMxyCg=="/>
+    </item>
+  </channel>
+</rss>
